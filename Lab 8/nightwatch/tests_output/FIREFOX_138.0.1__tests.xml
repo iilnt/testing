@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="tests" id="tests"
+    errors="0" failures="0" hostname="" package="tests" skipped="0"
+    tests="3" time="8.664" timestamp="">
+  
+    <testcase name="Page should have correct title" classname="tests" time="3.105" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Product layout should be present" classname="tests" time="2.686" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Should display some products" classname="tests" time="2.860" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
